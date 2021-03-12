@@ -1,2 +1,2 @@
 # Misket
-Tübitak 2021 Bilgisayar Olimpiyatları Lise 2. Aşama Misket Sorusu
+Tübitak 2021 Lise Bilgisayar Olimpiyatları 2. Aşama Sınavı Misket Sorusu
